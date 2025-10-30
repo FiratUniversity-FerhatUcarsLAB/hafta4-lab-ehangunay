@@ -1,6 +1,6 @@
 /*
- * Ad Soyad: [ADINIZ SOYADINIZ]
- * Ogrenci No: [NUMARANIZ]
+ * Ad Soyad: [Emirhan GÜNAY]
+ * Ogrenci No: [250541013]
  * Tarih: [30.10.2025]
  * Aciklama: Görev 2: Geometrik Hesaplayıcı
  */
